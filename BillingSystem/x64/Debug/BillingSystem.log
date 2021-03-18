@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\17813\Desktop\C++\BillingSystem\BillingSystem\MyForm.h(1211,9): warning C4101: 'sum': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BillingSystem.vcxproj -> C:\Users\17813\Desktop\C++\BillingSystem\x64\Debug\BillingSystem.exe

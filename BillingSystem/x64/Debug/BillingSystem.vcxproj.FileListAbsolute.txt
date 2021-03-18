@@ -1,0 +1,3 @@
+C:\Users\17813\Desktop\C++\BillingSystem\BillingSystem\x64\Debug\BillingSystem.vcxprojAssemblyReference.cache
+C:\Users\17813\Desktop\C++\BillingSystem\BillingSystem\x64\Debug\BillingSystem.MyForm.resources
+C:\Users\17813\Desktop\C++\BillingSystem\BillingSystem\x64\Debug\BillingSystem.vcxproj.GenerateResource.cache
